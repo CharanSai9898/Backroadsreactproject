@@ -5,30 +5,27 @@ const About = () => {
   return (
     <div>
       <section className="section" id="about">
-
-                                                  <Title title ='about' subTitle='us'/>
+        <Title title="about" subTitle="us" />
 
         <div className="section-center about-center">
           <div className="about-img">
-            <img
-              src={aboutImg}
-              className="about-photo"
-              alt="awesome beach"
-            />
+            <img src={aboutImg} className="about-photo" alt="awesome beach" />
           </div>
           <article className="about-info">
             <h3>explore the difference</h3>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Aspernatur quisquam harum nam cumque temporibus explicabo dolorum
-              sapiente odio unde dolor?
+              At Backroads, we believe every journey should be more than just a
+              trip. We create carefully planned travel experiences that combine
+              adventure, comfort, and unforgettable destinations for travelers
+              of all kinds.
             </p>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Aspernatur quisquam harum nam cumque temporibus explicabo dolorum
-              sapiente odio unde dolor?
+              Whether you're seeking breathtaking landscapes, cultural
+              discoveries, or relaxing getaways, our expert team is dedicated to
+              helping you explore the world with confidence and create memories
+              that last a lifetime.
             </p>
-            <a href="#" className="btn">
+            <a href="#Aboutus" className="btn">
               read more
             </a>
           </article>
