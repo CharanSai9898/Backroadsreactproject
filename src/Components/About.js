@@ -25,7 +25,7 @@ const About = () => {
               helping you explore the world with confidence and create memories
               that last a lifetime.
             </p>
-            <a href="#" className="btn">
+            <a href="#Aboutus" className="btn">
               read more
             </a>
           </article>
