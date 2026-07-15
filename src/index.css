@@ -1,8 +1,4 @@
-/*
-=============== 
-Variables
-===============
-*/
+
 
 :root {
   /* dark shades of primary color*/
@@ -38,11 +34,8 @@ Variables
   --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
-/*
-=============== 
-Global Styles
-===============
-*/
+
+
 
 * {
   margin: 0;
@@ -119,7 +112,7 @@ p {
     line-height: 1;
   }
 }
-/*  global classes */
+
 
 .btn {
   text-transform: uppercase;
