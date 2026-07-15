@@ -4,8 +4,8 @@
  <img src = 'Demo.gif'/>
 
  
- <a href="https://charansai9898.github.io/Backroadsreactproject/" target="_blank" rel="noopener noreferrer">
-  Visit the Live Website
+<a href="https://charansai9898.github.io/Backroadsreactproject/" target="_blank">
+  Live Demo
 </a>
 
 # Backroads App
