@@ -1,12 +1,13 @@
+Live Demo - https://charansai9898.github.io/Backroadsreactproject/
+ 
+ 
  Demo 
 
  
  <img src = 'Demo.gif'/>
 
  
-<a href="https://charansai9898.github.io/Backroadsreactproject/" target="_blank">
-  Live Demo
-</a>
+
 
 # Backroads App
   - navigate to the folder
