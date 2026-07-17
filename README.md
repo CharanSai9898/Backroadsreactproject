@@ -9,26 +9,6 @@ Live Demo - https://charansai9898.github.io/Backroadsreactproject/
  
 
 
-# Backroads App
-  - navigate to the folder
-  - run 'npm install'
-  - once the dependencies are installed run 'npm start'
-
-
-#### Create New React App
-
-- install
-
-```sh
-npx create-react-app@latest backroads-app
-```
-
-- run dev server
-
-```sh
-npm start
-```
-
 #### Setup Components
 
 - in src create components folder
